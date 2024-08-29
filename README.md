@@ -1,5 +1,7 @@
-Coffee Sales Data Analysis
-Overview
+#Coffee Sales Data Analysis
+
+
+
 This repository contains a comprehensive analysis of coffee sales data. The raw data, provided in CSV format, has been studied, cleaned, and analyzed using Excel. The analysis focuses on key metrics such as yearly, monthly, location-wise, and product-wise sales performance.
 
 Project Workflow
