@@ -12,9 +12,9 @@ Inconsistent entries, missing values, and errors in the dataset are identified a
 Data is formatted and structured for efficient analysis.
 Data Analysis:
 
-Yearly Analysis: Sales trends are analyzed every year to identify growth patterns and seasonal fluctuations.
-Monthly Analysis: Monthly sales data is broken down to pinpoint peak selling periods and potential off-seasons.
-Location-wise Analysis: Sales performance is evaluated across different regions to determine top-performing locations.
+Yearly Analysis: Sales trends are analyzed yearly to identify growth patterns and seasonal fluctuations.
+Monthly Analysis: Sales data is broken down to pinpoint peak selling periods and potential off-seasons.
+Location-wise Analysis: Sales performance is evaluated across regions to determine top-performing locations.
 Product-wise Analysis: Analysis is conducted on a product level to identify best-selling items and underperformers.
 Reporting:
 
@@ -36,5 +36,3 @@ Feel free to open a pull request or issue if you have suggestions or improvement
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-# Coffee-Shop-sales
