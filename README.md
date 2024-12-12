@@ -28,7 +28,7 @@ How to Use
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/coffeesales-analysis.git
+git clone https://github.com/Rashidengg/coffeesales-analysis.git
 You can open the Excel file to review the cleaned data and analysis reports.
 Insights
 Detailed insights on yearly, monthly, location-wise, and product-wise sales.
